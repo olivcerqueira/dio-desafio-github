@@ -1,0 +1,13 @@
+## AQUI LISTAREI OS PRINCIPAIS COMANDOS APRENDIDOS PARA NAVEGAÇÃO NO GIT BASH 
+
+git add move as alterações do diretorio de trabalho para a area de staging 
+
+git commit faz um commit instantaneo preparado no historico do projeto. combinado com o git add, define fluxo de trabalho 
+
+git init inicializa novo repositorio do git 
+ 
+git pull em resumo, faz download de uma versão do remoto para a versao local, possibilitando mesclagem 
+
+git push oposto acima citado, permite que se mova/publique o arquivo/versao para outro repositorio 
+
+git status exibe o estado do diretorio de trabalho 
