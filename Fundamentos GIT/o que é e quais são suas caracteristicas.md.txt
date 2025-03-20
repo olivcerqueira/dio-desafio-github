@@ -1,0 +1,12 @@
+# Aqui falaremos sobre a ferramenta  
+
+O Git é um sistema de controle de versão distribuído (DVCS) que permite acompanhar alterações em código de computador
+ 
+ ## Suas princpais caracteristicas 
+ Permite que várias pessoas trabalhem no mesmo código ao mesmo tempo 
+
+Funciona como uma máquina do tempo para o código, permitindo ver o que mudou e voltar atrás se necessário
+ 
+Implementa várias estratégias de mescla de arquivos 
+
+Tem um comando que remove objetos do repositório que não são mais acessíveis, ajudando a liberar espaço em disco 
