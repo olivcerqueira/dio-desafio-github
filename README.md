@@ -4,5 +4,5 @@ repositorio criado para o desafio de projeto
 
 ## Links Uteis  
 [sintaxe basica markdown](https://www.markdownguide.org/) 
-[sintaxe basica git] (https://git-scm.com/)
+[link-de-apoio] (https://git-scm.com/)
 
